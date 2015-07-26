@@ -1,0 +1,82 @@
+[
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/icc1/4/",
+        "fileName" : "convention_floor_1.png",
+        "workingDirectory": "convention1",
+        "cols" : 0, "maxCols" : 15,
+        "rows" : 3, "maxRows" : 13,
+        "wMulti" : 16, "hMulti" : 11
+    },
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/icc2/3/",
+        "fileName" : "convention_floor_2.png",
+        "workingDirectory": "convention2",
+        "cols" : 0, "maxCols" : 7,
+        "rows" : 0, "maxRows" : 7,
+        "wMulti" : 8, "hMulti" : 8
+    },
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/downtown/2/",
+        "fileName" : "downtown.png",
+        "workingDirectory": "downtown",
+        "cols" : 0, "maxCols" : 3,
+        "rows" : 0, "maxRows" : 3,
+        "wMulti" : 4, "hMulti" : 4
+    },
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/embassy/2/",
+        "fileName" : "embassy.png",
+        "workingDirectory": "embassy",
+        "cols" : 0, "maxCols" : 3,
+        "rows" : 0, "maxRows" : 3,
+        "wMulti" : 4, "hMulti" : 4
+    },
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/hyatt/2/",
+        "fileName" : "hyatt.png",
+        "workingDirectory": "hyatt",
+        "cols" : 0, "maxCols" : 3,
+        "rows" : 0, "maxRows" : 3,
+        "wMulti" : 4, "hMulti" : 4
+    },
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/jwmarriott/3/",
+        "fileName" : "jwmarriott.png",
+        "workingDirectory": "jwmarriott",
+        "cols" : 0, "maxCols" : 7,
+        "rows" : 0, "maxRows" : 7,
+        "wMulti" : 8, "hMulti" : 8
+    },
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/marriott/3/",
+        "fileName" : "marriott.png",
+        "workingDirectory": "marriott",
+        "cols" : 0, "maxCols" : 7,
+        "rows" : 1, "maxRows" : 7,
+        "wMulti" : 8, "hMulti" : 6
+    },
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/omni/3/",
+        "fileName" : "omni.png",
+        "workingDirectory": "omni",
+        "cols" : 0, "maxCols" : 7,
+        "rows" : 0, "maxRows" : 7,
+        "wMulti" : 8, "hMulti" : 8
+    },
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/unionstation/3/",
+        "fileName" : "unionstation.png",
+        "workingDirectory": "unionstation",
+        "cols" : 0, "maxCols" : 7,
+        "rows" : 0, "maxRows" : 7,
+        "wMulti" : 8, "hMulti" : 8
+    },
+    {
+        "url":"http://gencon.cdn.speedyrails.net/maps/westin/3/",
+        "fileName" : "westin.png",
+        "workingDirectory": "westin",
+        "cols" : 0, "maxCols" : 7,
+        "rows" : 0, "maxRows" : 7,
+        "wMulti" : 8, "hMulti" : 8
+    }
+]
